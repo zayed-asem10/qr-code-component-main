@@ -42,7 +42,7 @@ body {
 }
 .text h2 {
   color: var(--Dark-blue);
-  padding-bottom: 15px;
+  padding-bottom: 5px;
 }
 .text p {
   color: var(--Grayish-blue);
